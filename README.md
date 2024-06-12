@@ -1,8 +1,8 @@
-🔍 Project Overview 
+**🔍 Project Overview**
 
-AtliQ Hardware is a leading company which supplies products such as computer hardware and peripherals to clients across the world. I was tasked with producing sales and financial reports to assess AtliQ Hardware's market performance across 2019, 2020, and 2021. Here's the breakdown: 
+AtliQ Hardware is a leading company that supplies products such as computer hardware and peripherals to clients worldwide. I was tasked with producing sales reports to assess AtliQ Hardware's market performance across 2019, 2020, and 2021. Here's the breakdown: 
 
-📈 Sales Analytics
+**📈 Sales Analytics**
 
 • Thorough Analysis: Conducted an in-depth examination of net sales performance, exploring various dimensions like year, customer, market, product, growth, and division.
 
@@ -11,30 +11,30 @@ AtliQ Hardware is a leading company which supplies products such as computer har
 • Insight Generation: Produced comprehensive insights shedding light on critical aspects of sales operations.
 
 
-🛠️ Tools/Features Used
+**🛠️ Tools/Features Used**
 
-• Microsoft Excel
+**• Microsoft Excel**
 
-• Power Query (Data Cleaning & Transformation)
+**• Power Query (For Data Cleaning & Transformation)**
 
-• Power Pivot (Data Modeling)
+**• Power Pivot (For Data Modeling)**
 
-• Pivot Table (Data Summarization)
+**• Pivot Table (For Data Summarization)**
 
-• DAX Measures (Calculated Columns)
+**• DAX Measures (For Creating Calculated Columns)**
 
-• Conditional Formatting (To Highlight Key Data Points)
+**• Conditional Formatting (To Highlight Key Data Points)**
 
 
-📚 Knowledge Gained
+**📚 Knowledge Gained**
 
-• Data Cleaning
+**• Data Cleaning**
 
-• Data Representation
+**• Data Representation**
 
-• Business Domain Knowledge
+**• Business Domain Knowledge**
 
-• Business Insights
+**• Business Insights**
 
-• Data-driven Decision Making
+**• Data-driven Decision Making**
 
