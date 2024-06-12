@@ -11,6 +11,7 @@ AtliQ Hardware is a leading company that supplies products such as computer hard
 **• Insight Generation:** Produced comprehensive insights shedding light on critical aspects of sales operations.
 
 
+
 **🛠️ Tools/Features Used**
 
 **• Microsoft Excel**
@@ -24,6 +25,7 @@ AtliQ Hardware is a leading company that supplies products such as computer hard
 **• DAX Measures (For Creating Calculated Columns)**
 
 **• Conditional Formatting (To Highlight Key Data Points)**
+
 
 
 **📚 Knowledge Gained**
