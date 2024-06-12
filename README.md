@@ -4,11 +4,11 @@ AtliQ Hardware is a leading company that supplies products such as computer hard
 
 **📈 Sales Analytics**
 
-• Thorough Analysis: Conducted an in-depth examination of net sales performance, exploring various dimensions like year, customer, market, product, growth, and division.
+**• Thorough Analysis:** Conducted an in-depth examination of net sales performance, exploring various dimensions like year, customer, market, product, growth, and division.
 
-• Target Alignment: Ensured alignment with strategic objectives by closely monitoring market performance against predefined targets.
+**• Target Alignment:** Ensured alignment with strategic objectives by closely monitoring market performance against predefined targets.
 
-• Insight Generation: Produced comprehensive insights shedding light on critical aspects of sales operations.
+**• Insight Generation:** Produced comprehensive insights shedding light on critical aspects of sales operations.
 
 
 **🛠️ Tools/Features Used**
